@@ -1,0 +1,11 @@
+Algoritimo
+    Declara variaveis s,i0,i1,i2;
+    Escreva "Insira segundos:"
+    leia s
+    i0 -> s/3600;
+    i1 -> (s%3600)/60;
+    i2 -> s%60;
+    Escreva "Horas:", i0
+    Escreva "Minutos:", i1
+    Escreva "Segundos", i2
+Fim

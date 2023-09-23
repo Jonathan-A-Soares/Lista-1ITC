@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis K,M
+    Escreva "Insira velocidade em Km/h"
+    leia K
+    M -> K/3.6
+    Escreva "Velocidade convertida M/s:", M
+Fim

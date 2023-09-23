@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis A, B, C, i
+    Escreva "Insira 3 Numeros:"
+    leia A0,A1,A2
+    i -> (A+B+C)/3
+    Escreva "Media Aritimetica e:", i
+Fim

@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis r,i,h
+    Escreva "Insira Altura e Raio de um cilindro:"
+    leia r 
+    i -> 3.141592 * (r*r) * h
+    Escreva "Volume do cilindro e:", i
+Fim

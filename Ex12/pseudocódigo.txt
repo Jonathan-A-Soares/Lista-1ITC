@@ -1,0 +1,9 @@
+Algoritimo
+    Declara variaveis r,i
+    Escreva "Insira Raio de um circuferencia:"
+    leia r 
+    i -> 3.141592 * (r*r)
+    Escreva "Area da circuferencia e:", i
+Fim
+
+

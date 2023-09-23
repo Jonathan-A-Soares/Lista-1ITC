@@ -1,0 +1,31 @@
+Algoritmo
+  Declara variáveis km_inicial, km_final, litros_gastos, preco_litro, capacidade_tanque
+  Declara variáveis quilometragem_rodada, km_por_litro, autonomia, custo_viagem
+  
+  Escreva "Digite o Km inicial:"
+  Leia km_inicial
+  
+  Escreva "Digite o Km final:"
+  Leia km_final
+  
+  Escreva "Digite a quantidade de litros gastos:"
+  Leia litros_gastos
+  
+  Escreva "Digite o preço do litro de combustível:"
+  Leia preco_litro
+  
+  Escreva "Digite a capacidade do tanque:"
+  Leia capacidade_tanque
+  
+  quilometragem_rodada -> km_final - km_inicial
+  km_por_litro -> quilometragem_rodada / litros_gastos
+  autonomia -> km_por_litro * capacidade_tanque
+  custo_viagem -> litros_gastos * preco_litro
+  
+  Escreva "Quilometragem rodada: ", quilometragem_rodada, " km"
+  Escreva "Quilômetros por litro: ", km_por_litro, " km/l"
+  Escreva "Autonomia do veículo: ", autonomia, " km"
+  Escreva "Custo da viagem: R$", custo_viagem
+  
+Fim
+

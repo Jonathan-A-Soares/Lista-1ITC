@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis y,x,i0,Price
+    Escreva "Insira Largura comprimento preço por m2:"
+    leia x,y price
+    i0 -> Price *(x * y);
+    Escreva "Preço do terreno e:", i0
+Fim 

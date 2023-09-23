@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis Ca,Co,i0
+    Escreva "Insira Ca e Co:"
+    leia Co, Ca 
+    i0 -> RAIZ_QUADRADA((Ca * Ca)+(Co * Co))
+    Escreva "Hipotenuza e:", i0
+Fim

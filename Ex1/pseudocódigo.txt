@@ -1,0 +1,9 @@
+ Algoritimo
+    Declara variaveis A,i0,i1
+    Escreva "Insira um Numero:"
+    leia A 
+    i0 -> A - 1
+    i1 -> A + 1
+    Escreva "Seu atencessor:", i0
+    Escreva "Seu sucessor:", i1
+ Fim

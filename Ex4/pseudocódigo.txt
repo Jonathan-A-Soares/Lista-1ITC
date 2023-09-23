@@ -1,0 +1,7 @@
+Algoritimo
+    Declara variaveis A,i0
+    Escreva "Insira um Numero:"
+    leia A 
+    i0 -> A * A 
+    Escreva "Seu quadrado e:", i0
+Fim
